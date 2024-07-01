@@ -1,16 +1,16 @@
 import React from 'react';
 
-const Index = () => {
+const Services = () => {
   return (
     <div className="h-screen w-screen flex items-center justify-center">
       <div>
-        <h1 className="text-3xl text-center">Welcome to Tow Service Booking</h1>
+        <h1 className="text-3xl text-center">Our Services</h1>
         <p className="text-center">
-          Your reliable partner for all towing needs.
+          We offer a wide range of towing services to meet your needs.
         </p>
       </div>
     </div>
   );
 };
 
-export default Index;
+export default Services;
